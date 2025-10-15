@@ -1,0 +1,1 @@
+console.log("Foolchand")//node 01_basic/text.js
